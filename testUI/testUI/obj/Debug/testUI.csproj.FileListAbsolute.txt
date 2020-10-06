@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\testUI\testUI\bin\Debug\testUI.exe.config
+C:\Users\lenovo\source\repos\testUI\testUI\bin\Debug\testUI.exe
+C:\Users\lenovo\source\repos\testUI\testUI\bin\Debug\testUI.pdb
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.Form1.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.FormAddmin.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.FormFinancial.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.FormReg.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.FormSearch.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.FormWorkList.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.Properties.Resources.resources
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.exe
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.pdb
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\testUI\testUI\obj\Debug\testUI.Form2.resources
